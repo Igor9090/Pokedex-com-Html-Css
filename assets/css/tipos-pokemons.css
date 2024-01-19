@@ -1,0 +1,58 @@
+/* Pokemons de Grama */
+.grass{
+  background: #47CEAE;
+  background: linear-gradient(313deg, #4ee2c0 0%, rgb(70, 202, 171)50%, #3bac91 100%);
+}
+
+.grass .number{
+  color: #54f0cc79;
+}
+
+.grass .type{
+  background-color: #60E1C9;
+}
+
+/* Pokemons de Fogo */
+
+.fire{
+  background: rgb(255,162,31);
+  background: linear-gradient(313deg, rgb(255, 151, 31) 0%, rgb(230, 75, 33) 50%, rgb(252, 104, 30) 100%);
+}
+
+.fire .number{
+  color: #ffa21f79 ;
+}
+
+.fire .type{
+  background-color: rgb(255, 102, 59);
+}
+
+/* Pokemons de água */
+
+.water{
+  background: #76BDFE;
+  background: linear-gradient(313deg, #76BDFE 0%, #6aaae6 50%, #5f97cc 100%);
+}
+
+.water .number{
+  color: #1d90fc79 ;
+}
+
+.water .type{
+  background-color: #74bbfd;
+}
+
+/* Pokemon Normal */
+
+.normal{
+  background: #dbd7d6;
+  background: linear-gradient(313deg, #dad9d9 0%, #c7c7c7 50%, #b3b2b2 100%);
+}
+
+.normal .number{
+  color: #94949479 ;
+}
+
+.normal .type{
+  background-color: #e0e0e0;
+}
